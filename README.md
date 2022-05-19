@@ -3,6 +3,8 @@
 Task: Make a landing page using only an image of the complete page
 and color and font information
 
+No code or templates were provided.
+
 ## Skills Used
 
 - HTML
